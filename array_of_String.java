@@ -26,6 +26,9 @@ public class array_of_String {
         //Enhanced for loop
         for (String s : name) {
             System.out.print("Hi " + s+" ");
+        
         }
+            for (String s : name) {
+            System.out.print("Hi " + s+" ");
     }
 }
